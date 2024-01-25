@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BOOK APPLICATION</string>
+
+
+    <string name="book1_name">BOOK 1</string>
+    <string name="author1_name">AUTHOR 1</string>
+    <string name="poster1_name">poster1</string>
+    <string name="book_desc_1">It was November.Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter. Another white rectangle, it was on the fifth step from the bottom, where I couldn\'t miss it.</string>
+
+
+    <string name="book2_name">RICH DAD POOR DAD</string>
+    <string name="author2_name">AUTHOR 2</string>
+    <string name="poster2_name">poster2</string>
+    <string name="book_desc_2">It was November.Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter. Another white rectangle, it was on the fifth step from the bottom, where I couldn\'t miss it.</string>
+
+
+    <string name="book3_name">CATCH 22</string>
+    <string name="author3_name">AUTHOR 3</string>
+    <string name="poster3_name">poster3</string>
+    <string name="book_desc_3">It was November.Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter. Another white rectangle, it was on the fifth step from the bottom, where I couldn\'t miss it.</string>
+
+
+    <string name="book4_name">GREAT GATSBY</string>
+    <string name="author4_name">AUTHOR 4</string>
+    <string name="poster4_name">poster4</string>
+    <string name="book_desc_4">It was November.Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter. Another white rectangle, it was on the fifth step from the bottom, where I couldn\'t miss it.</string>
+
+    <string name="book5_name">BOOK 5</string>
+    <string name="author5_name">AUTHOR 5</string>
+    <string name="poster5_name">poster5</string>
+    <string name="book_desc_5">It was November.Although it was not yet late, the sky was dark when I turned into Laundress Passage. Father had finished for the day, switched off the shop lights and closed the shutters; but so I would not come home to darkness he had left on the light over the stairs to the flat. Through the glass in the door it cast a foolscap rectangle of paleness onto the wet pavement, and it was while I was standing in that rectangle, about to turn my key in the door, that I first saw the letter. Another white rectangle, it was on the fifth step from the bottom, where I couldn\'t miss it.</string>
+
+</resources>
